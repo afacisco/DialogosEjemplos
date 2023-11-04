@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Diálogos Ejemplos</string>
+    <string name="btn_mens">Botón</string>
+    <string name="op_salir">Salir</string>
+    <string name="op_cambAct">Cambio Actividad</string>
+    <string name="mens_cuadro1">¿Quieres cambiar de actividad?</string>
+    <string name="tit_cuadro1">Diálogo con botones</string>
+    <string name="tit_cuadro2">Diálogo con listado</string>
+    <string name="btnpos_cuadro1">Aceptar</string>
+    <string name="btnneg_cuadro1">Cancelar</string>
+</resources>
